@@ -1,0 +1,6 @@
+C:\Users\Thuta\Desktop\Windows-Console-Application\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Thuta\Desktop\Windows-Console-Application\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Thuta\Desktop\Windows-Console-Application\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Thuta\Desktop\Windows-Console-Application\NumberGuesser\NumberGuesser\obj\Debug\BlanketNumber.csproj.CoreCompileInputs.cache
+C:\Users\Thuta\Desktop\Windows-Console-Application\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Thuta\Desktop\Windows-Console-Application\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
